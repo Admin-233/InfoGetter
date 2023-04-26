@@ -14,7 +14,7 @@ A tool for getting specified information from the Internet.
 ## **程序运行环境的配置：**
 
 1. 安装Chrome浏览器，输入Chrome://version查看浏览器版本；
-2. 前往http://chromedriver.storage.googleapis.com/index.html下载相应版本的驱动解压其中的chromedriver.exe放在与程序一个目录，一般只需要大版本相同即可（也可以使用提交的作品文件中附带的浏览器驱动和安装包）。
+2. 前往 [这里](http://chromedriver.storage.googleapis.com/index.html) 下载相应版本的驱动解压其中的chromedriver.exe放在与程序一个目录，一般只需要大版本相同即可（也可以使用提交的作品文件中附带的浏览器驱动和安装包）。
 
  
 
